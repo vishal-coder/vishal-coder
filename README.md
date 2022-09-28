@@ -2,7 +2,7 @@
 
 preview
 <h1 align="center">Hi 👋, I'm Vishal Gaikwad</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-coder&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-coder" /> </p>
 
