@@ -11,7 +11,7 @@ preview
 - 🌱 I’m currently learning **AWS and Jenkins**
 
 - 👨‍💻 All of my projects are available at [https://vishalgaikwad.netlify.app](https://vishalgaikwad.netlify.app)
-- [Certification](https://www.guvi.in/certificate?id=6CBU1662Sk2lN2A648&download=true) 
+- Full Stack [Certification](https://www.guvi.in/certificate?id=6CBU1662Sk2lN2A648&download=true) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
